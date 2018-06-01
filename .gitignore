@@ -1,0 +1,95 @@
+# Repo specific types #
+#######################
+# *.cpp
+# *.hpp
+# *.csv
+# *.xml
+
+# *.fsm
+# *.sqf
+# *.sqm
+# *.sqs
+
+*.bisurf
+*.rvmat
+
+*.p3d
+
+*.lip
+*.ogg
+*.wss
+
+*.paa
+*.pac
+
+*.rtm
+
+*.wrp
+
+###############################################################################
+
+# Arma specific types #
+#######################
+# *.pbo
+# *.bisign
+
+*.bin
+*.cfg
+*.pew
+*.tga
+*.wav
+
+# Generic types #
+#################
+*.tmp
+*.bak
+# *.txt
+# *.h
+
+# IDE specific types and folders #
+##################################
+.project
+*.iml
+*.sqdev
+source/testmission/#tweakTerrainLighting.Stratis/.settings/*
+source/testmission/#tweakTerrainLighting.Stratis/.idea/*
+
+###############################################################################
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
